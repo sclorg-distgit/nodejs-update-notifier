@@ -7,7 +7,7 @@
 Summary:       Update notifications for your CLI app
 Name:          %{?scl_prefix}nodejs-%{npm_name}
 Version:       0.6.0
-Release:       2.sc1%{?dist}
+Release:       2.sc2%{?dist}
 License:       BSD
 URL:           https://github.com/yeoman/update-notifier
 Source0:       http://registry.npmjs.org/%{npm_name}/-/%{npm_name}-%{version}.tgz
